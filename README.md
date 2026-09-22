@@ -14,9 +14,9 @@ I am open to internship and junior software development and backend opportunitie
 
 ## Professional case study
 
-### [MLBot — Mercado Livre Automation Dashboard](https://github.com/ViniOcCode/mlbot-case-study)
+### [MLBot — Mercado Livre Automation Dashboard](https://vinioccode.github.io/mlbot-case-study/)
 
-Sanitized case study of the confidential freelance dashboard that automated listing creation, publishing, editing, and catalog auditing. It documents the architecture, OAuth2 and external-service integrations, the processing of more than 500 listings, and the use of AI with reusable skills, validation harnesses, guardrails, automated tests, security checks, and human review.
+Sanitized case study of the confidential freelance dashboard that automated listing creation, publishing, editing, and catalog auditing. It documents the architecture, OAuth2 and external-service integrations, the processing of more than 500 listings, and the use of AI with reusable skills, validation harnesses, guardrails, automated tests, security checks, and human review. [Source repository](https://github.com/ViniOcCode/mlbot-case-study).
 
 ## Selected projects
 
@@ -59,7 +59,7 @@ Também desenvolvi uma aplicação desktop em Python para administrar instância
 
 Projetos selecionados: [Note Taking C](https://github.com/ViniOcCode/note-taking-c), projeto final do CS50; [Diet Calc](https://github.com/ViniOcCode/diet-calc), projeto de extensão relacionado ao ODS 3; e [Controle-Prod 1.0](https://github.com/ViniOcCode/Controle-de-Producao-1.0), projeto de extensão em C#, Windows Forms e SQLite.
 
-Estudo de caso profissional: [MLBot — Painel de Automação para Mercado Livre](https://github.com/ViniOcCode/mlbot-case-study), apresentando de forma sanitizada a arquitetura, as integrações, o processamento de mais de 500 anúncios e o uso controlado de IA com skills, harnesses, guardrails, testes e revisão humana.
+Estudo de caso profissional: [MLBot — Painel de Automação para Mercado Livre](https://vinioccode.github.io/mlbot-case-study/), apresentando de forma sanitizada a arquitetura, as integrações, o processamento de mais de 500 anúncios e o uso controlado de IA com skills, harnesses, guardrails, testes e revisão humana. [Repositório-fonte](https://github.com/ViniOcCode/mlbot-case-study).
 
 </details>
 
