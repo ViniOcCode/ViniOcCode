@@ -12,6 +12,12 @@ In another freelance project, I built a Python desktop application to manage Dig
 
 I am open to internship and junior software development and backend opportunities in Brazil.
 
+## Professional case study
+
+### [MLBot — Mercado Livre Automation Dashboard](https://github.com/ViniOcCode/mlbot-case-study)
+
+Sanitized case study of the confidential freelance dashboard that automated listing creation, publishing, editing, and catalog auditing. It documents the architecture, OAuth2 and external-service integrations, the processing of more than 500 listings, and the use of AI with reusable skills, validation harnesses, guardrails, automated tests, security checks, and human review.
+
 ## Selected projects
 
 ### [Note Taking C](https://github.com/ViniOcCode/note-taking-c)
@@ -52,6 +58,8 @@ Em um projeto freelance remunerado e confidencial, desenvolvi sozinho um painel 
 Também desenvolvi uma aplicação desktop em Python para administrar instâncias na DigitalOcean, validar IP e DNS, executar configurações remotas por SSH e automatizar um fluxo de divulgação por e-mail com leitura IMAP e templates HTML. A solução foi distribuída para Windows com PyInstaller.
 
 Projetos selecionados: [Note Taking C](https://github.com/ViniOcCode/note-taking-c), projeto final do CS50; [Diet Calc](https://github.com/ViniOcCode/diet-calc), projeto de extensão relacionado ao ODS 3; e [Controle-Prod 1.0](https://github.com/ViniOcCode/Controle-de-Producao-1.0), projeto de extensão em C#, Windows Forms e SQLite.
+
+Estudo de caso profissional: [MLBot — Painel de Automação para Mercado Livre](https://github.com/ViniOcCode/mlbot-case-study), apresentando de forma sanitizada a arquitetura, as integrações, o processamento de mais de 500 anúncios e o uso controlado de IA com skills, harnesses, guardrails, testes e revisão humana.
 
 </details>
 
