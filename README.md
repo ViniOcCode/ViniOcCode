@@ -1,25 +1,43 @@
-<img src="YOUDIED.png" alt="Github Banner" width="100%"/>
+# Vinicius Octavio Pereira Cavalheiro
 
-<h1>Olá, viajante! Eu sou Vinícius! 👋</h1>
-<p>Um guerreiro em busca do BackEnd?</p>
+**Software Developer | Backend, REST APIs and SQL | Python**
 
+Desenvolvedor de software e estudante de Ciência da Computação. Trabalho principalmente com Python, APIs REST, autenticação, integrações, bancos de dados, testes e containers.
 
-Descanse aqui e dê uma olhada na minha loja. Acho que posso te ajudar...
+Em um projeto freelance confidencial, desenvolvi sozinho um painel web que automatizava todo o fluxo de criação e publicação de anúncios no Mercado Livre. O sistema também oferecia um editor para atualizar anúncios publicados e uma conferência geral por meio da API do Mercado Livre. As automações foram usadas no processamento de mais de 500 anúncios.
 
-<h2>🔥  LOJA</h2>
+Também desenvolvi uma aplicação desktop em Python para administrar instâncias na DigitalOcean, validar IP e DNS, executar configurações remotas por SSH e automatizar um fluxo de divulgação por e-mail com leitura IMAP e templates HTML. A solução foi distribuída para Windows com PyInstaller.
 
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
+Busco oportunidades de estágio ou nível júnior em desenvolvimento de software e backend.
 
-<h2>⚔ Não me perca de vista!</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/viniciusoccavalheiro" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+## Projetos selecionados
+
+### [Note Taking C](https://github.com/ViniOcCode/note-taking-c)
+
+Projeto final do Harvard CS50 2025: aplicação de linha de comando escrita em C para criar, editar, organizar e buscar notas em arquivos Markdown. Usa Meson, Docker e operações de sistema de arquivos POSIX.
+
+### [Diet Calc](https://github.com/ViniOcCode/diet-calc)
+
+Projeto de extensão universitária relacionado ao ODS 3. Aplicação web em Python, Flask e Jinja para cálculos de IMC, taxa metabólica basal, consumo de água e macronutrientes, com [demonstração publicada](https://diet-calc.onrender.com/).
+
+### [Controle-Prod 1.0](https://github.com/ViniOcCode/Controle-de-Producao-1.0)
+
+Projeto de extensão universitária: aplicação desktop em C#, Windows Forms e SQLite para cadastro de produtos e matérias-primas, registro da produção diária e visualização de indicadores.
+
+## Competências
+
+- **Backend:** Python, FastAPI, Flask e APIs REST
+- **Infraestrutura e automação:** DigitalOcean, SSH, DNS, IMAP e PyInstaller
+- **Dados:** SQL, PostgreSQL, MongoDB e SQLite
+- **Integrações:** OAuth2, APIs externas e armazenamento em nuvem
+- **Qualidade e entrega:** testes automatizados, Git, Docker e integração contínua
+- **Experiência adicional:** C, C#, Windows Forms, TypeScript e React Native
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/viniciusoccavalheiro/)
+
+---
+
+Software developer and Computer Science student focused on backend development with Python, REST APIs, SQL, automated tests, integrations, and Docker. Open to internship and junior software development opportunities in Brazil.
+
