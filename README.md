@@ -2,7 +2,7 @@
 
 ### Backend Developer | Java, Spring Boot, SQL & REST APIs
 
-Computer Science student at Cruzeiro do Sul Virtual (expected graduation: June 2028). Looking for backend or software engineering internships and junior roles.
+Computer Science student at Universidade Cruzeiro do Sul (expected graduation: June 2028). Looking for backend or software engineering internships and junior roles.
 
 **English:** C1 Advanced (EF SET 66/100) · **Location:** São Paulo, Brazil (remote across Brazil or hybrid/on-site in SP tech hubs — Campinas, São Paulo, Ribeirão Preto, São Carlos, SJC).
 
@@ -31,7 +31,7 @@ Contact: [LinkedIn](https://www.linkedin.com/in/viniciusoccavalheiro/)
 
 ### Desenvolvedor Backend | Java, Spring Boot, SQL e APIs REST
 
-Estudante de Ciência da Computação na Cruzeiro do Sul Virtual (conclusão prevista: junho de 2028). Busco estágio ou vaga júnior em desenvolvimento backend ou software.
+Estudante de Ciência da Computação na Universidade Cruzeiro do Sul (conclusão prevista: junho de 2028). Busco estágio ou vaga júnior em desenvolvimento backend ou software.
 
 **Inglês:** C1 Avançado (EF SET 66/100) · **Localização:** São Paulo, Brasil (remoto no Brasil ou híbrido/presencial em polos de SP — Campinas, São Paulo, Ribeirão Preto, São Carlos, SJC).
 
